@@ -2,9 +2,10 @@
 
 Lista de questões resolvidas na linguagem C 
 
-*(acho que: o que falta para voce ir mais alem é tentar explicar como os codigos funcionam
+###(acho que: o que falta para voce ir mais alem é tentar explicar como os codigos funcionam
  apartir de cada exercicio/questao resolvida. Explicando a resolução de suas questoes você
  da um salto de aprendizagem)
+ 
  
 Q1: Escreva um programa para exibir a mensagem: É preciso praticar para
 aprender a programar
